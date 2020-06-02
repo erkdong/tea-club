@@ -3,6 +3,7 @@
 - Make the point lights blink to the music
 - Add light particles that spawn at certain frequencies
 - Add a real background instead of just fog
+- Make it easy to personalize to an artist's individual brand
 
 ## Frequencies per ring (hz)
 ### Following the Fibonacci sequence
