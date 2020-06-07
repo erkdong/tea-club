@@ -5,26 +5,46 @@
 - Add a real background instead of just fog
 - Make it easy to personalize to an artist's individual brand
 
-## Frequencies per ring (hz)
-### Following the Fibonacci sequence
+## Star sound settings
 
-Ring 1: 100 - 200
+Frequency: 0 - 50
+Attack: 0.001
+Release: 0.1
+Threshold: 0
 
-Ring 2: 201 - 300
+## Ring settings
 
-Ring 3: 301 - 500
+Release time: 0.2
+Threshold: 0
 
-Ring 4: 501 - 800
+### Frequency ranges (hz)
+Ring 1: 0 - 100
+Attack time: 0.1
 
-Ring 5: 801 - 1300
+Ring 2: 100 - 200
+Attack time: 0.05
 
-Ring 6: 1301 - 2100
+Ring 3: 200 - 400
+Attack time: 0.01
 
-Ring 7: 2101 - 3400
+Ring 4: 400 - 800
+Attack time: 0.01
 
-Ring 8: 3401 - 5500
+Ring 5: 800 - 1600
+Attack time: 0.01
 
-Ring 9: 5501 - 8900
+Ring 6: 1600 - 3200
+Attack time: 0.005
 
-Ring 10: 8900 - 20,000
+Ring 7: 3200 - 6400
+Attack time: 0.001
+
+Ring 8: 6400 - 9600
+Attack time: 0.001
+
+Ring 9: 9600 - 12800
+Attack time: 0.001
+
+Ring 10: 12800 - 20,000
+Attack time: 0.001
 
